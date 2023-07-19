@@ -15,11 +15,11 @@ To get the server running locally:
 	 	-A1. Open the Source file : "food_source.py"
 		-A2. Set path of the image Directories ( food Images ) &  Run/Execute the code
 
--B: Instructions for simply testing an image: 
+- B: Instructions for simply testing an image: 
 	-To test a image
 	-B1. OPen the python file : "test_image.py"
 	-B2. Set the Path for the Image to be tested &  Run/Execute the code
--C: Instructions for trained-Model Embedding / Utilization of embedded into other code: 
+- C: Instructions for trained-Model Embedding / Utilization of embedded into other code: 
 	C1. Keep " foodcm.pkl " in the CWD/Directory to use the already trained model
 	C2. Load Model from Pickle-File & Test any given image by providing image path in following code
 	C3.  Copy Follwing Code ( 9-Lines of Code):
